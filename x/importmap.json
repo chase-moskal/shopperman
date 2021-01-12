@@ -1,0 +1,15 @@
+
+{
+	"imports": {
+		"crnc/": "https://unpkg.com/crnc@0.0.0-dev.22/",
+		"lit-element/": "https://unpkg.com/lit-element@2.5.1/",
+		"lit-element": "https://unpkg.com/lit-element@2.5.1/lit-element.js",
+		"lit-html/": "https://unpkg.com/lit-html@1.4.1/",
+		"lit-html": "https://unpkg.com/lit-html@1.4.1/lit-html.js",
+		"menutown/": "https://unpkg.com/menutown@0.0.1/",
+		"menutown": "https://unpkg.com/menutown@0.0.1/dist/register-all.js",
+		"shopify-buy/": "https://unpkg.com/shopify-buy@2.11.0/",
+		"shopify-buy": "https://unpkg.com/shopify-buy@2.11.0/index.js"
+	}
+}
+
